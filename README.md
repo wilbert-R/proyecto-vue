@@ -1,4 +1,9 @@
 # .
+## Autor
+- Nombre: Wilbert Jesus Rubi Garcia.  
+- Email: a21311056@uthermosillo.edu.mx 
+- GitHub: [@wilbert-R](https://github.com/wilbert-R)
+
 
 This template should help get you started developing with Vue 3 in Vite.
 
